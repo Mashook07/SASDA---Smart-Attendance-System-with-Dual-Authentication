@@ -80,5 +80,5 @@ python main.py
 - Admin dashboard with analytics
 - RFID + biometric hybrid system
 
-Khan Mohammed Mashook 
+Khan Mohammed Mashook                                                                                                              
 Electronics & Computer Science Engineering Student
