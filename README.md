@@ -5,9 +5,6 @@ A smart attendance management system that uses Face Recognition and Voice Recogn
 # Demo Video :
 Demo: https://go.screenpal.com/watch/cTf1XMnjVzM
 
-# Resources (PPT, PDF, etc) :
-
-https://drive.google.com/drive/folders/13ekE8pB63vHiq03IkmAmF7iOfmAm5W_J?usp=drive_link
 
 ## 📌 Features
 - Student registration with face image capture
@@ -83,6 +80,5 @@ python main.py
 - Admin dashboard with analytics
 - RFID + biometric hybrid system
 
-## 👨‍💻 Developer
-Khan Mohd Asif Altaf and Khan Maaz Shakeel
+Khan Mohammed Mashook 
 Electronics & Computer Science Engineering Student
