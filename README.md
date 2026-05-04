@@ -1,5 +1,8 @@
 # 🎯 Welcome to My Face & Voice Recognition Attendance System Project
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A smart attendance management system that uses Face Recognition and Voice Recognition to automatically identify students and mark attendance with high accuracy and security. The system uses dual biometric authentication to prevent proxy attendance and manual errors.
 
 # Demo Video :
