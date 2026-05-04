@@ -96,3 +96,8 @@ venv.bak/
 # Project Specific
 tmp_model/
 *.wav
+
+# Model outputs
+*.pkl
+*.yml
+trainer/
