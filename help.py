@@ -1,3 +1,5 @@
+# Help module - SASDA Smart Attendance System
+# Provides help/support information to users
 # from tkinter import *
 # from tkinter import ttk
 # from PIL import Image, ImageTk  # pip install pillow
