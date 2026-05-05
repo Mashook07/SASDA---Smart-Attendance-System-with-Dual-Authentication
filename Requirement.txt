@@ -1,3 +1,4 @@
+# Core dependencies for SASDA project
 pillow
 tkinter
 mysql-connector-python
@@ -7,3 +8,5 @@ torch
 torchaudio
 sounddevice
 soundfile
+SpeechRecognition
+pyttsx3
