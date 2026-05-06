@@ -1,3 +1,7 @@
+"""
+enroll.py - Voice enrollment module for SASDA
+Records and saves user voiceprints for later recognition.
+"""
 import torch
 import torchaudio
 import os
