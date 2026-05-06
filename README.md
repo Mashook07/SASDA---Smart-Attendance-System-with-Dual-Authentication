@@ -82,6 +82,7 @@ python main.py
 - Emotion detection
 - Admin dashboard with analytics
 - RFID + biometric hybrid system
+- Multi-language support
 
 Khan Mohammed Mashook                                                                                                              
 Electronics & Computer Science Engineering Student
