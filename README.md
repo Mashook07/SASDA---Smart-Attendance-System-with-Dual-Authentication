@@ -53,6 +53,7 @@ Hardware:
 - Webcam
 - Microphone
 - Minimum 4GB RAM
+- GPU (optional, improves speed)
 
 Software:
 - Python 3.8+
