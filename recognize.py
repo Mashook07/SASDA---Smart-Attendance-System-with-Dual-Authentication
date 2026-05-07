@@ -1,4 +1,6 @@
-# import torch
+# recognize.py - Voice recognition module for SASDA
+# Matches recorded voice against stored voiceprints.
+# import torchaudio
 # import torchaudio
 # import os
 # import numpy as np
