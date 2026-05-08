@@ -76,6 +76,7 @@ python main.py
 - Easy to use
 - Low cost
 - Secure authentication
+- Works offline (no internet needed)
 
 ## 🔮 Future Scope
 - Mobile app version
