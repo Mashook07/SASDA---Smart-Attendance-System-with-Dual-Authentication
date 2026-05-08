@@ -58,6 +58,7 @@ Hardware:
 Software:
 - Python 3.8+
 - Windows/Linux/macOS
+- pip package manager
 
 ## 🚀 How to Run Project
 1. Clone repository
